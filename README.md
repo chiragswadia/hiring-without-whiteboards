@@ -64,6 +64,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Ataccama](https://jobs.ataccama.com) | Prague, Czech Republic | Face to face interview (skype or onsite), coding task for 30 min, meeting with team members
 - [aTech Media](https://atech.media) | London, UK | Face to face interview, review of existing open source contributions or, if none are available, asked to write a library for something that interests them
 - [Auth0](https://auth0.com/blog/how-we-hire-engineers) | Bellevue, WA / Buenos Aires, Argentina / Remote | Series of interviews, go over technical background and past experiences, take-home project
+- [Auto1](https://www.auto1-group.com/jobs) | Berlin, DE | Series of Skype interviews which covers general technical questions, followed by a take-home assignment
 - [Automattic](https://automattic.com/work-with-us) | Remote | short take-home real-world task, then a few weeks-long real-world, part-time, and paid project on production code
 - [AutoScout24](https://github.com/AutoScout24/hiring) | Munich, Germany | Skype interview followed by home assignment from our day-to-day business and then on-site interview including lunch with a team
 - [Avant](https://avant.com/jobs) | Chicago, IL | Pair programming interviews.
@@ -512,7 +513,6 @@ Additions to this document that are properly formatted will automatically be pus
 - [Sensu](https://sensu.io) | Remote | Video call, choice of pairing session or take home programming assignment
 - [Séntisis](http://sentisis.com/trabaja-con-nosotros) | Madrid, Spain; Mexico City, Mexico; Bogotá, Colombia; Santiago de Chile, Chile; Remote | Phone call, on-site/remote interview including discussion about projects/skills and a short real-world pair-programming exercise
 - [SerpApi](https://serpapi.com) | Austin, TX / Remote | Skype core value and culture interview, review of contributions on GitHub or other platforms, and take-home project if online contributions are not enough.
-- [Sertis](https://sertiscorp.com) | Bangkok, Thailand | Technical & culture fit interview, take-home project, follow-up discussion
 - [Setapp Sp. z o.o.](https://setapp.pl/career) | Poznan, Poland | Online/face-to-face discussion with developers about everyday programming dilemmas & reviewing your own code
 - [Sharoo](https://www.sharoo.com/jobs/) | Zurich, Switzerland; Remote | Soft skills interview, take home project, technical interview based on take home project.
 - [Shogun](https://getshogun.com) | Remote | Discussion about software development and past experience, code samples, paid trial period.
@@ -554,7 +554,6 @@ Additions to this document that are properly formatted will automatically be pus
 - [Symplicity](https://www.symplicity.com/about/join-us) | Arlington, VA | Take-home project and code review in-person
 - [SysGarage](http://sysgarage.com) | Buenos Aires, Argentina | Take-home project and real world pair programming
 - [TableCheck](https://corp.tablecheck.com/en/jobs) | Tokyo, Japan | Show us your code! Brief Skype interview and take-home project or pairing for those without code.
-- [Tailor Brands](https://tailorbrands.com/jobs) | Tel Aviv-Yafo, Israel | Discuss knowledge and interests, explore previous work experience, during the technical interview we discuss real-life problems.
 - [tails.com](https://tails.com/careers) | Richmond (London), UK | Live pair programming or take home project with review
 - [Tanooki Labs](http://tanookilabs.com) | New York, NY | Paid half-day take home project with followup review and discussion
 - [Tattoodo](https://www.tattoodo.com) | Copenhagen, Denmark | Takehome exercise
